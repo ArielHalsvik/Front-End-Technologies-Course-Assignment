@@ -1,19 +1,7 @@
-![](http://143.42.108.232/pvt/Noroff-64.png)
-# Noroff
-# Back-end Development Year 1
-### Front-end Technologies - Course Assignment 1 <sup>V4</sup>
+# Course Assignment Information
 
-Startup code for Noroff back-end development 1 - Front-end Technologies course.
+This is a Front End Technologies Course Assignment I got early in the first semester of my Backend development degree.
 
-Instruction for the course assignment is in the LMS (Moodle) system of Noroff.
-[https://lms.noroff.no](https://lms.noroff.no)
+The *Initial Commit* is the original code I got for the assignment.
 
-![](http://143.42.108.232/pvt/important.png)
-
-You will not be able to make any submission after the deadline of the course assignment. Make sure to make all your commit **BEFORE** the deadline
-
-![](http://143.42.108.232/pvt/help_small.png)
-
-If you are unsure of any instructions for the course assignment, contact out to your teacher on **Microsoft Teams**.
-
-**REMEMBER** Your Moodle LMS submission must have your repository link **AND** your Github username in the text file.
+The *Final Commit* is my finished code that I sent in for the assignment.
